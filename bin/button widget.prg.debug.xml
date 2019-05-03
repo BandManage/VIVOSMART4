@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="3" lineNum="11" pc="268435478" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="15" pc="268435502" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="16" pc="268435506" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="17" pc="268435525" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="18" pc="268435544" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="19" pc="268435581" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="32" pc="268435800" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="4" lineNum="34" pc="268435830" symbol="onLayout"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="5" lineNum="40" pc="268435859" symbol="onShow"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="6" lineNum="44" pc="268435864" symbol="onUpdate"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="6" lineNum="46" pc="268435868" symbol="onUpdate"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="7" lineNum="52" pc="268435889" symbol="onHide"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="9" lineNum="62" pc="268435894" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="9" lineNum="63" pc="268435898" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="9" lineNum="64" pc="268435916" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="9" lineNum="65" pc="268435926" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="9" lineNum="66" pc="268435936" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="69" pc="268435960" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="70" pc="268435964" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="72" pc="268435987" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="73" pc="268436015" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="74" pc="268436036" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetView.mc" id="10" lineNum="75" pc="268436057" symbol="btnClick"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="12" lineNum="5" pc="268436061" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="12" lineNum="6" pc="268436065" symbol="initialize"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="13" lineNum="10" pc="268436084" symbol="onStart"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="14" lineNum="14" pc="268436089" symbol="onStop"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="15" lineNum="18" pc="268436094" symbol="getInitialView"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="15" lineNum="19" pc="268436098" symbol="getInitialView"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="15" lineNum="20" pc="268436098" symbol="getInitialView"/>
+<entry filename="/home/amit/eclipse-workspace/button widget/source/buttonwidgetApp.mc" id="15" lineNum="21" pc="268436122" symbol="getInitialView"/>
+<entry filename="Rez" id="22" lineNum="21" pc="268436174" symbol="MainLayout"/>
+<entry filename="Rez" id="22" lineNum="25" pc="268436186" symbol="MainLayout"/>
+<entry filename="Rez" id="22" lineNum="26" pc="268436317" symbol="MainLayout"/>
+<entry filename="Rez" id="22" lineNum="27" pc="268436369" symbol="MainLayout"/>
+<entry filename="Rez" id="22" lineNum="30" pc="268436421" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8389897" symbol="stateDefault"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="14" method="true" symbol="btnClick"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="19" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8389103" symbol="behavior"/>
+<entry field="true" id="8389900" symbol="stateDisabled"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry field="true" id="8389898" symbol="stateHighlighted"/>
+<entry id="9" object="true" symbol="buttonwidgetView"/>
+<entry field="true" id="12" symbol="view"/>
+<entry field="true" id="8389899" symbol="stateSelected"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="13" symbol="enter"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="11" object="true" symbol="buttonwidgetApp"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="17" symbol="id_monkey"/>
+<entry id="10" object="true" symbol="MyBehaviorDelegate"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435858" name="b_zout" stackId="2" startPc="268435506"/>
+<entry endPc="268435858" name="tsButton" stackId="3" startPc="268435506"/>
+<entry endPc="268435859" name="dc" stackId="1" startPc="268435502"/>
+<entry endPc="268435889" name="dc" stackId="1" startPc="268435864"/>
+<entry endPc="268435960" name="v" stackId="1" startPc="268435894"/>
+<entry endPc="268435960" name="e" stackId="2" startPc="268435894"/>
+<entry endPc="268436060" name="content" stackId="2" startPc="268435964"/>
+<entry endPc="268436060" name="listener" stackId="1" startPc="268435964"/>
+<entry endPc="268436089" name="state" stackId="1" startPc="268436084"/>
+<entry endPc="268436094" name="state" stackId="1" startPc="268436089"/>
+<entry endPc="268436173" name="view" stackId="1" startPc="268436098"/>
+<entry endPc="268436438" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436186"/>
+<entry endPc="268436439" name="dc" stackId="1" startPc="268436174"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="buttonwidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="buttonwidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="buttonwidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="buttonwidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="buttonwidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyBehaviorDelegate">
+<param id="v"/>
+<param id="e"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="btnClick" parent="MyBehaviorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="buttonwidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="buttonwidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="buttonwidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="buttonwidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="MyBehaviorDelegate" type="class"/>
+<dataEntry offset="245" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="324" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="542" parentId="globals" symbolId="buttonwidgetApp" type="class"/>
+<dataEntry offset="613" parentId="globals" symbolId="buttonwidgetView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
